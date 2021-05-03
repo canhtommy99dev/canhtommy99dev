@@ -39,7 +39,10 @@
   
   ### Resume and blog
   
-  <!-- - [My CV](https://www.topcv.vn/xem-cv/4d94320f7f2ca3d9d7041fdf9a406e38). -->
+  - [My Team FPT Hackathon 2021 Winner](https://dantri.com.vn/giao-duc-huong-nghiep/sv-fpt-edu-ung-dung-ai-chan-doan-benh-ngoai-da-20210421064759194.htm?fbclid=IwAR0DZag_64f1zua6OQoUGfDvc0VfX75OeB9Rq8CFdzp9atvd94vdcDW-H0k).
+- [Camera AI Hanet ](https://camera14.vn/blogs/news/ra-mat-hanet-ai-camera?fbclid=IwAR0NRslDaZhz-3RwcdahLZ8ycyEIZyD8YaSuQmIrKx7rVGdX0NEovVjWCp4).
+- [FPT Hackathon 2019 ](https://fpt.edu.vn/tin-tuc/29901/nhung-doi-thi-dau-tien-cua-cuoc-thi-nghin-do-iot-showcase-contest?fbclid=IwAR1-3quHCNu1oAYNHrKUHRVYppfrMD7kifUFtseei9uQrokO-LZlSaOkLi4).
+
   
   ### Libraries and packages (Android/JAVA,Flutter/Dart,NodeJs/JavaScript,iOS/Swift)
   
