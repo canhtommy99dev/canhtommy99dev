@@ -2,20 +2,20 @@
   <img src='./imagesource.jpg' width='100%"'>
 </p>
 
-## A mobile developer (Android, ReactNative) <br> Currently learning Flutter and working as a ReactNative developer 
+## A mobile developer (Android, iOS) <br> Currently learning Flutter and working as a Mobile developer 
 
 ### Contact me
                   
 [![Facebook](https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/canhtommy99)
-[![Twitter](https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/h5A3Es5Xwu4v)
+[![Skype](https://img.shields.io/badge/skype-%231DA1F2.svg?&style=for-the-badge&logo=skype&logoColor=white)](https://join.skype.com/invite/h5A3Es5Xwu4v)
 [![Gmail](https://img.shields.io/badge/gmail-red?&style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/?fs=1&to=d8ddocanhcomputer@gmail.com&su=SUBJECT&body=BODY&tf=cm)
 
 ### Skills
 
-[![Kotlin](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
+[![Java](https://img.shields.io/badge/kotlin-%23FF5722.svg?&style=for-the-badge&logo=kotlin&logoColor=white)]()
 [![Android](https://img.shields.io/badge/android-teal.svg?&style=for-the-badge&logo=android&logoColor=white")]()
-[![ReactNative](https://img.shields.io/badge/reactnative-%233498DB.svg?&style=for-the-badge&logo=react&logoColor=white)]()
-[![TypeScript](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
+[![Flutter](https://img.shields.io/badge/reactnative-%233498DB.svg?&style=for-the-badge&logo=react&logoColor=white)]()
+[![iOS](https://img.shields.io/badge/typeScript-%231DA1F2.svg?&style=for-the-badge&logo=typescript&logoColor=white)]()
 [![NodeJS](https://img.shields.io/badge/nodejs-brightgreen?&style=for-the-badge&logo=node.js&logoColor=white)]()
 
 ### Hello visitors
